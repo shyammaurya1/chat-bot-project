@@ -4,4 +4,5 @@ pip install tflearn
 pip install tensorflow
 a main.py file and a intents.json file
 #numpy,nltk,random
+#(install punkt) : >>import nltk >>nltk.download("punkt")
 
