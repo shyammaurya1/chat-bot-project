@@ -1,0 +1,5 @@
+Requirements :
+
+pip install tflearn
+pip install tensorflow
+#numpy,nltk,random
