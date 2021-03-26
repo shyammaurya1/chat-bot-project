@@ -1,8 +1,3 @@
-Requirements :
+*CHATBOT* **using tensorflow2 and NLP**
 
-pip install tflearn
-pip install tensorflow
-a main.py file and a intents.json file
-#numpy,nltk,random
-#(install punkt) : >>import nltk >>nltk.download("punkt")
-
+Here, we are going to use reddit comment dataset of one month record.  
